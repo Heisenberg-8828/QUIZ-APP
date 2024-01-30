@@ -1,2 +1,2 @@
-# QUIZ-APP
-quizzing app built with JAVA
+# S-QUIZ
+A quizzing app that allows users to download various quizzes and also view previous results, The quizzes are uploaded by various teachers
